@@ -1,6 +1,6 @@
 # LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation
 Official PyTorch code of "LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation," 
-Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Kwanghoon Sohn](http://diml.yonsei.ac.kr/), CVPR 2019 [[Project Page](https://seungryong.github.io/LAFNet/)].
+Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Kwanghoon Sohn](http://diml.yonsei.ac.kr/), CVPR 2019 (Oral) [[Project Page](https://seungryong.github.io/LAFNet/)].
 
 <p align="center">
   <img src="LAF.png" width="600px" alt="LAF"></img>
@@ -33,6 +33,9 @@ Optional arguments:
 * `--stereo_matcher`: stereo matching method
 
 ## Evaluation ##
+Download the pre-trained model at `saved_models` folder:
+* [pretrained-model](https://people.eecs.berkeley.edu/~tinghuiz/projects/flowWeb/)
+
 Launch the following command:
 ```shell
 python evaluate.py
@@ -42,6 +45,8 @@ Optional arguments:
 * `--stereo_matcher`: stereo matching method
 
 ## Citation
+  - The code is provided for academic use only. Use of the code in any commercial or industrial related activities is prohibited. 
+  - If you use this code for your research, please cite the paper. 
 ```shell
 @inproceedings{Kim_CVPR_2019,
   title     = {LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation},
