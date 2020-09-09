@@ -21,7 +21,7 @@ sh train.sh
 ```
 or 
 ```shell
-python train.py --stereo_matcher 'mccnn'
+python train.py
 ```
 
 Optional arguments:
@@ -47,7 +47,7 @@ Optional arguments:
   - If you use this code for your research, please cite the paper. 
 ```shell
 @inproceedings{Kim_CVPR_2019,
-  title     = {LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation},
+  title     = {LAF-Net: Locally Adaptive Fusion Networks For Stereo Confidence Estimation},
   author    = {Kim, Sunok and Kim, Seungryong and Min, Dongbo and Sohn, Kwanghoon},
   booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year = {2019}
