@@ -41,8 +41,7 @@ python evaluate.py
 ```
 
 ## Citation
-  - The code is provided for academic use only. Use of the code in any commercial or industrial related activities is prohibited. 
-  - If you use this code for your research, please cite the paper. 
+  - If you use this code for your research, please cite the following paper. 
 ```shell
 @inproceedings{Kim_CVPR_2019,
   title     = {LAF-Net: Locally Adaptive Fusion Networks For Stereo Confidence Estimation},
