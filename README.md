@@ -10,7 +10,7 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 * `Python 3.8` 
 * `PyTorch 1.4`
 
-## Download datasets ##
+## Getting started ##
 Download KITTI data (20 images in KITTI 2012, 200 images in KITTI 2015):
 * [KITTI-data](https://?/)
 
