@@ -53,4 +53,4 @@ Optional arguments:
 
 ## Acknowledgements
 
-Thanks to Matteo Poggi for sharing KITTI data and AUC code.
+Thanks to [Matteo Poggi](https://mattpoggi.github.io/) for sharing KITTI data and AUC code.
