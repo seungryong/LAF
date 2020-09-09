@@ -39,8 +39,6 @@ Launch the following command:
 ```shell
 python evaluate.py
 ```
-Optional arguments:
-* `--output_path`: output path
 
 ## Citation
   - The code is provided for academic use only. Use of the code in any commercial or industrial related activities is prohibited. 
