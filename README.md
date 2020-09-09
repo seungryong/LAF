@@ -12,7 +12,7 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 
 ## Download datasets ##
 Download KITTI data (20 images in KITTI 2012, 200 images in KITTI 2015):
-* [KITTI-data](https://people.eecs.berkeley.edu/~tinghuiz/projects/flowWeb/)
+* [KITTI-data](https://?/)
 
 ## Training ##
 Launch the following command:
@@ -30,11 +30,10 @@ Optional arguments:
 * `--num_epochs`: maximum epochs
 * `--step_size_lr`: step size for adjusting learning rate
 * `--gamma_lr`: gamma for adjusting learning rate
-* `--stereo_matcher`: stereo matching method
 
 ## Evaluation ##
 Download the pre-trained model at `saved_models` folder:
-* [pretrained-model](https://people.eecs.berkeley.edu/~tinghuiz/projects/flowWeb/)
+* [pretrained-model](https://?/)
 
 Launch the following command:
 ```shell
@@ -42,7 +41,6 @@ python evaluate.py
 ```
 Optional arguments:
 * `--output_path`: output path
-* `--stereo_matcher`: stereo matching method
 
 ## Citation
   - The code is provided for academic use only. Use of the code in any commercial or industrial related activities is prohibited. 
