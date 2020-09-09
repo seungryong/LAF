@@ -3,8 +3,9 @@ Official PyTorch code of "LAF-Net: Locally Adaptive Fusion Networks for Stereo C
 Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Kwanghoon Sohn](http://diml.yonsei.ac.kr/), CVPR 2019 [[Project Page](https://seungryong.github.io/LAFNet/)].
 
 <p align="center">
-  <img src="LAF.png" width="450px" alt="LAF"></img>
+  <img src="LAF.png" width="600px" alt="LAF"></img>
 </p>
 
-
-<img src="results.png" width="450px" height="300px" alt="LAF"></img><br/>
+<p align="center">
+  <img src="results.png" width="600px" height="300px" alt="LAF"></img>
+</p>
