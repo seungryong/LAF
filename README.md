@@ -1,14 +1,13 @@
 # LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation
+![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg?style=plastic)
+![pytorch 1.4](https://img.shields.io/badge/pytorch-1.4-green.svg?style=plastic)
+
 Official PyTorch code of "LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation," 
 Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Kwanghoon Sohn](http://diml.yonsei.ac.kr/), CVPR 2019 (Oral) [[Project Page](https://seungryong.github.io/LAFNet/)].
 
 <p align="center">
   <img src="LAF.png" width="600px" alt="LAF"></img>
 </p>
-
-## Requirements ##
-* `Python 3.8` 
-* `PyTorch 1.4`
 
 ## Getting started ##
 Download KITTI data, containing color images, initial disparity maps, and cost volumes 
