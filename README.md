@@ -12,8 +12,16 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 
 ## Getting started ##
 Download KITTI data, containing color images, initial disparity maps, and cost volumes 
-of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (for evaluation)), at the following link:
+of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (for evaluation), at the following link:
 * [KITTI-data](https://?/)
+
+## Evaluation ##
+Download the pre-trained model at `saved_models` folder:
+* [pretrained-model](https://drive.google.com/file/d/1I2AFVki1YWlY61V75hnf4Y8mQciRU03m/view?usp=sharing)
+Launch the following command:
+```shell
+python evaluate.py
+```
 
 ## Training ##
 Launch the following command:
@@ -30,15 +38,6 @@ Optional arguments:
 * `--num_epochs`: maximum epochs
 * `--step_size_lr`: step size for adjusting learning rate
 * `--gamma_lr`: gamma for adjusting learning rate
-
-## Evaluation ##
-Download the pre-trained model at `saved_models` folder:
-* [pretrained-model](https://?/)
-
-Launch the following command:
-```shell
-python evaluate.py
-```
 
 ## Citation
   - If you use this code for your research, please cite the following paper. 
