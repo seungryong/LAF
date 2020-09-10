@@ -12,7 +12,7 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 
 ## Getting started ##
 Download KITTI data, containing color images, initial disparity maps, and cost volumes 
-of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (for evaluation), at the following link:
+of first 20 images in KITTI 2012 benchmark (for training) and 200 images in KITTI 2015 benchmark (for evaluation), at the following link:
 * [KITTI-data](https://drive.google.com/file/d/1SDrqZ_iT86HhsE6ycV12nDLbjDrjU1ei/view?usp=sharing)
 
 It contains the data generated with MC-CNN stereo matcher. Please see the paper for details. 
@@ -26,7 +26,7 @@ Launch the following command:
 python evaluate.py
 ```
 
-It evaluates the LAF-Net on KITTI 2015 benchmarks. Please see the paper for details. 
+It evaluates the LAF-Net on KITTI 2015 benchmark. Please see the paper for details. 
 
 ## Training ##
 Launch the following command:
