@@ -13,7 +13,7 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 ## Getting started ##
 Download KITTI data, containing color images, initial disparity maps, and cost volumes 
 of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (for evaluation), at the following link:
-* [KITTI-data](https://?/)
+* [KITTI-data](https://drive.google.com/file/d/1SDrqZ_iT86HhsE6ycV12nDLbjDrjU1ei/view?usp=sharing)
 
 ## Evaluation ##
 Download the pre-trained model at `saved_models` folder:
