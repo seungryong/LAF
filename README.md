@@ -38,11 +38,11 @@ or
 python train.py
 ```
 Optional arguments:
-* `--base_lr`: learning rate
-* `--batch_size`: batch size
-* `--num_epochs`: maximum epochs
-* `--step_size_lr`: step size for adjusting learning rate
-* `--gamma_lr`: gamma for adjusting learning rate
+* `--base_lr` learning rate
+* `--batch_size` batch size
+* `--num_epochs` maximum epochs
+* `--step_size_lr` step size for adjusting learning rate
+* `--gamma_lr` gamma for adjusting learning rate
 
 ## Citation
   - If you use this code for your research, please cite the following paper. 
