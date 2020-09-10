@@ -18,6 +18,7 @@ of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (fo
 ## Evaluation ##
 Download the pre-trained model at `saved_models` folder:
 * [pretrained-model](https://drive.google.com/file/d/1I2AFVki1YWlY61V75hnf4Y8mQciRU03m/view?usp=sharing)
+
 Launch the following command:
 ```shell
 python evaluate.py
