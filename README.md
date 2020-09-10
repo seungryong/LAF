@@ -11,7 +11,8 @@ Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://
 * `PyTorch 1.4`
 
 ## Getting started ##
-Download KITTI data (20 images in KITTI 2012, 200 images in KITTI 2015):
+Download KITTI data, containing color images, initial disparity maps, and cost volumes 
+of first 20 images in KITTI 2012 (for training) and 200 images in KITTI 2015 (for evaluation)), at the following link:
 * [KITTI-data](https://?/)
 
 ## Training ##
@@ -23,7 +24,6 @@ or
 ```shell
 python train.py
 ```
-
 Optional arguments:
 * `--base_lr`: learning rate
 * `--batch_size`: batch size
