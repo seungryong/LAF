@@ -20,8 +20,10 @@ of first 20 images in KITTI 2012 benchmark (for training) and 200 images in KITT
 It contains the data generated with MC-CNN stereo matcher. Please see the paper for details. 
 
 ## Evaluation ##
-Download the pre-trained model at `saved_models` folder:
+Download the pre-trained model at the following link and save at `saved_models` folder :
 * [LAF-Net](https://drive.google.com/file/d/1I2AFVki1YWlY61V75hnf4Y8mQciRU03m/view?usp=sharing)
+
+or train the network from scratch.
 
 Launch the following command:
 ```shell
