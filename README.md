@@ -1,6 +1,6 @@
 # LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation
-![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg?style=plastic)
-![pytorch 1.4](https://img.shields.io/badge/pytorch-1.4-green.svg?style=plastic)
+![Python 3.8](https://img.shields.io/badge/Python-3.8-green.svg?style=plastic)
+![PyTorch 1.4](https://img.shields.io/badge/PyTorch-1.4-green.svg?style=plastic)
 
 Official PyTorch code of "LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation," 
 Sunok Kim, [Seungryong Kim](https://seungryong.github.io/), [Dongbo Min](http://cvl.ewha.ac.kr/), [Kwanghoon Sohn](http://diml.yonsei.ac.kr/), CVPR 2019 (Oral) [[Project Page](https://seungryong.github.io/LAFNet/)].
