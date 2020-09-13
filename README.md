@@ -21,7 +21,7 @@ It contains the data generated with MC-CNN stereo matcher. Please see the paper 
 
 ## Evaluation ##
 Download the pre-trained model at the following link and save at `saved_models` folder :
-* [LAF-Net](https://drive.google.com/file/d/1I2AFVki1YWlY61V75hnf4Y8mQciRU03m/view?usp=sharing)
+* [LAF-Net](https://drive.google.com/file/d/1zAiXI86qYNhfwohj4CB8kn_IJqVGshYx/view?usp=sharing)
 
 or train the network from scratch.
 
