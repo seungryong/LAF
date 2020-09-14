@@ -49,7 +49,7 @@ Optional arguments:
 * `--gamma_lr` gamma for adjusting learning rate
 
 ## Citation
-  - If you use this code for your research, please cite the following paper. 
+If you use this code for your research, please cite the following paper. 
 ```shell
 @inproceedings{Kim_CVPR_2019,
   title     = {LAF-Net: Locally Adaptive Fusion Networks For Stereo Confidence Estimation},
