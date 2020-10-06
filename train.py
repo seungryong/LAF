@@ -19,8 +19,8 @@ import argparse
 parser = argparse.ArgumentParser(description='LAFNet (CVPR 2019) stereo confidence training')
 parser.add_argument('--base_lr', type=float, default=3e-3, help="base_lr")
 parser.add_argument('--batch_size', type=float, default=4, help="batch_size")
-parser.add_argument('--num_epochs', type=int, default=800, help="num_epochs")
-parser.add_argument('--step_size_lr', type=int, default=400, help="step_size_lr")
+parser.add_argument('--num_epochs', type=int, default=2000, help="num_epochs")
+parser.add_argument('--step_size_lr', type=int, default=1000, help="step_size_lr")
 parser.add_argument('--gamma_lr', type=float, default=0.1, help="gamma_lr")
 opt = parser.parse_args()
 
